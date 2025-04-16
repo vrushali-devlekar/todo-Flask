@@ -1,5 +1,7 @@
 # ✅ Task Smash 2.0 - A Simple Flask TODO - list 
 check out - https://vrushalid.pythonanywhere.com/
+
+
 This is a beginner-friendly **Flask CRUD app** where users can **add**, **edit**, and **delete** tasks using a **clean web interface**. It uses **SQLite** as the database and supports **SCSS styling**.
 
 ---
