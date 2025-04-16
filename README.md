@@ -32,21 +32,7 @@ This is a beginner-friendly **Flask CRUD app** where users can **add**, **edit**
 
 
 ## 📁 Project Structure
-└── 📁flask
-        └── README.rst
-    └── 📁instance
-        └── database.db
-    └── 📁static
-        └── styles.css
-        └── styles.css.map
-        └── styles.scss
-    └── 📁templates
-        └── base.html
-        └── edit.html
-        └── index.html
-    └── app.py
-    └── requirements.txt
-    └── testing.html
+<img width="140" alt="image" src="https://github.com/user-attachments/assets/0cea65db-7b76-4e63-ba75-bc3b47891bc7" />
 
 
-pip install flask flask_sqlalchemy flask_scss
+install dependencies first 
